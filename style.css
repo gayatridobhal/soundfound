@@ -1,0 +1,148 @@
+*{
+    padding: 0;
+    margin:0;
+}
+.navbar{
+    position: absolute;
+    width: 1920px;
+    height: 152px;
+    left: 0px;
+    top: 0px;
+    background: rgba(0, 0, 0, 0.5);
+}
+body{
+    position: relative;
+    width: 1920px;
+    height: 1080px;
+    background: linear-gradient(180deg, #052033 0%, rgba(10, 32, 48, 0.5) 100%);
+    padding: 0px;
+}
+#logo-name{
+    position: absolute;
+    width: 184px;
+    height: 152px;
+    left: 158px;
+    top: 0px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 45px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+#logo{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 52px;
+    top: 41px;
+}
+#link1{
+    position: absolute;
+    width: 169px;
+    height: 152px;
+    left: 1473px;
+    top: 0px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 45px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+#link2{
+    position: absolute;
+    width: 144px;
+    height: 152px;
+    left: 1683px;
+    top: 0px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 45px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+.footer{
+    position: absolute;
+    width: 1920px;
+    height: 90px;
+    left: 0px;
+    top: 990px;
+    background: rgba(5, 32, 51, 0.55);
+}
+#aboutus{
+    position: absolute;
+    width: 133px;
+    height: 90px;
+    left: 69px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+#contactus{
+    position: absolute;
+    width: 133px;
+    height: 90px;
+    left: 235px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+#followus{
+    position: absolute;
+    width: 169px;
+    height: 90px;
+    left: 1473px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+#writetous{
+    position: absolute;
+    width: 169px;
+    height: 90px;
+    left: 1683px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    cursor: pointer;
+}

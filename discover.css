@@ -1,0 +1,134 @@
+#text3{
+    position: absolute;
+    width: 656px;
+    height: 108px;
+    left: 330px;
+    top: 341px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 108px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+#text4{
+    position: absolute;
+    width: 669px;
+    height: 110px;
+    left: 323px;
+    top: 731px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 45px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+#rect1{
+    position: absolute;
+    width: 180px;
+    height: 180px;
+    left: 330px;
+    top: 500px;
+    z-index: 2;
+    background: #052033;
+}
+#icon1{
+    position: absolute;
+    left: 390px;
+    top: 530px;
+    z-index: 3;
+}
+#t1{
+    position: absolute;
+    width: 180px;
+    height: 80px;
+    left: 390px;
+    top: 600px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    z-index: 3;
+}
+#rect2{
+    position: absolute;
+    width: 180px;
+    height: 180px;
+    left: 560px;
+    top: 500px;
+    background: #052033;
+    z-index: 2;
+}
+#icon2{
+    position: absolute;
+    left: 620px;
+    top: 530px;
+    z-index: 3;
+}
+#t2{
+    position: absolute;
+    width: 180px;
+    height: 80px;
+    left: 620px;
+    top: 600px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    z-index: 3;
+}
+#rect3{
+    position: absolute;
+    width: 180px;
+    height: 180px;
+    left: 790px;
+    top: 500px;
+    background: #052033;
+    z-index: 2;
+}
+#icon3{
+    position: absolute;
+    left: 850px;
+    top: 530px;
+    z-index: 3;
+}
+#t3{
+    position: absolute;
+    width: 180px;
+    height: 80px;
+    left: 845px;
+    top: 600px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    z-index: 3;
+}
+#collage{
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 1293px;
+    top: 341px;
+}
